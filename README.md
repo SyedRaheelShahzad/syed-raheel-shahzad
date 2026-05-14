@@ -235,6 +235,30 @@ Official image archive:
 
 https://syedraheelshahzad.com/official-author-images/
 
+
+## The Architect’s Protocol
+
+Another major expression of this method is **The Architect’s Protocol**, a five-book civilizational audit series by Syed Raheel Shahzad.
+
+Where The Source of Truth System™ is structured as a human transformation framework, The Architect’s Protocol is structured as a civilizational audit.
+
+It examines post-truth collapse, jungle power, moral relativism, the authored universe, artificial intelligence, transhumanism, and the final human choice to remain human.
+
+The series follows a five-book movement:
+
+- GOD IS BACK — truth collapse
+- THE JUNGLE PROTOCOL — power without higher law
+- THE MORAL ANCHOR — objective right and wrong
+- AUTHORED — signature, source, and the authored universe
+- THE LAST U-TURN — AI, transhumanism, and the choice to remain human
+
+Official series page:
+
+https://syedraheelshahzad.com/architects-protocol/
+
+Official framework reference:
+
+https://github.com/SyedRaheelShahzad/the-architects-protocol
 ---
 
 ## Related Official Repositories
