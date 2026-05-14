@@ -275,6 +275,8 @@ https://github.com/SyedRaheelShahzad/syed-raheel-shahzad-books
 **The Source of Truth System Repository:**  
 https://github.com/SyedRaheelShahzad/the-source-of-truth-system
 
+**The Architect’s Protocol Repository:**  
+https://github.com/SyedRaheelShahzad/the-architects-protocol
 ---
 
 ## Official Public Reference
