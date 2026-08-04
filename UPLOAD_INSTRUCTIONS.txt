@@ -1,0 +1,43 @@
+GITHUB UPLOAD AND PAGES SETUP
+
+1. Open or create:
+   https://github.com/SyedRaheelShahzad/syed-raheel-shahzad
+
+2. Upload every file and folder from this package to the repository root.
+   Do not upload the outer package folder itself.
+
+3. Preserve these exact Unicode folder names:
+   ar-سيد-راحيل-شهزاد
+   ur-سید-راحیل-شہزاد
+   hi-सैयद-राहील-शहज़ाद
+
+4. Commit to the main branch.
+
+5. Open Repository Settings > Pages.
+
+6. Choose:
+   Source: Deploy from a branch
+   Branch: main
+   Folder: / (root)
+
+EXPECTED ROUTES
+Index: https://syedraheelshahzad.github.io/syed-raheel-shahzad/
+Arabic: https://syedraheelshahzad.github.io/syed-raheel-shahzad/ar-%D8%B3%D9%8A%D8%AF-%D8%B1%D8%A7%D8%AD%D9%8A%D9%84-%D8%B4%D9%87%D8%B2%D8%A7%D8%AF/
+Urdu: https://syedraheelshahzad.github.io/syed-raheel-shahzad/ur-%D8%B3%DB%8C%D8%AF-%D8%B1%D8%A7%D8%AD%DB%8C%D9%84-%D8%B4%DB%81%D8%B2%D8%A7%D8%AF/
+Hindi: https://syedraheelshahzad.github.io/syed-raheel-shahzad/hi-%E0%A4%B8%E0%A5%88%E0%A4%AF%E0%A4%A6-%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A5%80%E0%A4%B2-%E0%A4%B6%E0%A4%B9%E0%A4%9C%E0%A4%BC%E0%A4%BE%E0%A4%A6/
+
+MACHINE-READABLE ENDPOINTS
+https://syedraheelshahzad.github.io/syed-raheel-shahzad/data/index.json
+https://syedraheelshahzad.github.io/syed-raheel-shahzad/data/author.json
+https://syedraheelshahzad.github.io/syed-raheel-shahzad/data/books.json
+https://syedraheelshahzad.github.io/syed-raheel-shahzad/schema/root.jsonld
+https://syedraheelshahzad.github.io/syed-raheel-shahzad/schema/books.jsonld
+https://syedraheelshahzad.github.io/syed-raheel-shahzad/llms.txt
+https://syedraheelshahzad.github.io/syed-raheel-shahzad/llms-full.txt
+https://syedraheelshahzad.github.io/syed-raheel-shahzad/sitemap.xml
+
+IMPORTANT
+- Do not rename the Unicode folders.
+- All three pages include embedded page-specific JSON-LD.
+- The official cover image is included in Open Graph, Twitter and JSON-LD metadata.
+- No open-content licence is granted.

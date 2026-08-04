@@ -1,0 +1,17 @@
+{
+  "name": "Syed Raheel Shahzad — Multilingual Author Identity",
+  "short_name": "SRS Author",
+  "description": "Arabic, Urdu and Hindi author profiles, official 25-book catalog and machine-readable public identity records.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#173B72",
+  "lang": "en",
+  "categories": [
+    "books",
+    "education",
+    "research",
+    "business"
+  ]
+}

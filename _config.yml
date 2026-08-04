@@ -1,0 +1,8 @@
+title: "Syed Raheel Shahzad — Multilingual Author Identity"
+description: "Arabic, Urdu and Hindi author profiles with the official 25-book catalog and machine-readable public records."
+url: "https://syedraheelshahzad.github.io"
+baseurl: "/syed-raheel-shahzad"
+lang: en
+timezone: Asia/Dubai
+exclude:
+  - scripts

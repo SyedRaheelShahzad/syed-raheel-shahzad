@@ -1,0 +1,35 @@
+# Syed Raheel Shahzad — Official Multilingual Author Identity
+
+> Author | Group CEO | Business Strategist | Systems Thinker & Architect.
+
+## Canonical identity
+- Official author website: https://syedraheelshahzad.com/
+- Author verification: https://syedraheelshahzad.com/author-verification/
+- ISNI: 0000 0005 3022 8433
+- ORCID: 0009-0001-7323-1577
+- Wikidata: Q139548931
+- Google Scholar: nRC4eGEAAAAJ
+
+## GitHub Pages language profiles
+- Arabic: https://syedraheelshahzad.github.io/syed-raheel-shahzad/ar-%D8%B3%D9%8A%D8%AF-%D8%B1%D8%A7%D8%AD%D9%8A%D9%84-%D8%B4%D9%87%D8%B2%D8%A7%D8%AF/
+- Urdu: https://syedraheelshahzad.github.io/syed-raheel-shahzad/ur-%D8%B3%DB%8C%D8%AF-%D8%B1%D8%A7%D8%AD%DB%8C%D9%84-%D8%B4%DB%81%D8%B2%D8%A7%D8%AF/
+- Hindi: https://syedraheelshahzad.github.io/syed-raheel-shahzad/hi-%E0%A4%B8%E0%A5%88%E0%A4%AF%E0%A4%A6-%E0%A4%B0%E0%A4%BE%E0%A4%B9%E0%A5%80%E0%A4%B2-%E0%A4%B6%E0%A4%B9%E0%A4%9C%E0%A4%BC%E0%A4%BE%E0%A4%A6/
+
+## Official author-site language profiles
+- Arabic: https://syedraheelshahzad.com/ar-سيد-راحيل-شهزاد/
+- Urdu: https://syedraheelshahzad.com/ur-سید-راحیل-شہزاد/
+- Hindi: https://syedraheelshahzad.com/hi-सैयद-राहील-शहज़ाद/
+
+## Machine-readable files
+- Author identity: https://syedraheelshahzad.github.io/syed-raheel-shahzad/data/author.json
+- Book catalog: https://syedraheelshahzad.github.io/syed-raheel-shahzad/data/books.json
+- Identifiers: https://syedraheelshahzad.github.io/syed-raheel-shahzad/data/identifiers.json
+- Profile links: https://syedraheelshahzad.github.io/syed-raheel-shahzad/data/profiles.json
+- JSON-LD catalog: https://syedraheelshahzad.github.io/syed-raheel-shahzad/schema/books.jsonld
+- Full LLM reference: https://syedraheelshahzad.github.io/syed-raheel-shahzad/llms-full.txt
+
+## Connected institutions
+- The Syed Group: https://thesyedgroup.com/
+- The Syed Group UK: https://thesyedgroup.co.uk/
+- Syed Foundation: https://syedfoundation.com/
+- Ask SRS: https://ask.syedraheelshahzad.com/

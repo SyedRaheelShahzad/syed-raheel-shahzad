@@ -1,0 +1,21 @@
+/* IDENTITY */
+Name: Syed Raheel Shahzad
+Arabic / Urdu: سيد راحيل شهزاد
+Urdu display: سید راحیل شہزاد
+Hindi display: सैयद राहील शहज़ाद
+Roles: Author | Group CEO | Business Strategist | Systems Thinker & Architect
+Website: https://syedraheelshahzad.com/
+Repository: https://github.com/SyedRaheelShahzad/syed-raheel-shahzad
+
+/* IDENTIFIERS */
+ISNI: 0000 0005 3022 8433
+ORCID: 0009-0001-7323-1577
+Wikidata: Q139548931
+Google Scholar: nRC4eGEAAAAJ
+
+/* CONTACT */
+Author: books@syedraheelshahzad.com
+Publishing: publications@thesyedgroup.com
+
+/* UPDATED */
+2026-08-04

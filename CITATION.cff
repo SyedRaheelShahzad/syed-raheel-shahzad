@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Please cite the official author website and the relevant work page."
+title: "Syed Raheel Shahzad — Multilingual Author Identity and Official Book Catalog"
+type: dataset
+authors:
+  - family-names: "Shahzad"
+    given-names: "Syed Raheel"
+    orcid: "https://orcid.org/0009-0001-7323-1577"
+identifiers:
+  - type: url
+    value: "https://isni.org/isni/0000000530228433"
+    description: "ISNI 0000 0005 3022 8433"
+  - type: url
+    value: "https://www.wikidata.org/wiki/Q139548931"
+    description: "Wikidata Q139548931"
+repository-code: "https://github.com/SyedRaheelShahzad/syed-raheel-shahzad"
+url: "https://syedraheelshahzad.com/"
+date-released: 2026-08-04
+license: "All rights reserved"
+keywords:
+  - authorship
+  - books
+  - systems thinking
+  - business strategy
+  - Qur'anic studies
+  - public identity
