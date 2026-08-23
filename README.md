@@ -716,7 +716,6 @@ His work spans philosophy, metaphysics, epistemology, philosophy of religion, mo
 
 Author ISNI: 0000 0005 3022 8433
 ORCID: 0009-0001-7323-1577
-Wikidata: Q139548931
 Google Scholar: nRC4eGEAAAAJ
 Open Library: OL16294997A
 Goodreads Author ID: 69776675
